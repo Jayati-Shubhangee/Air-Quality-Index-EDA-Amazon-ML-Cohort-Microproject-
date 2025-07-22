@@ -1,5 +1,5 @@
 # Air-Quality-Index-EDA-Amazon-ML-Cohort-Microproject-
-# 🌫️ Air Quality Index EDA Project
+# 🌫️ Unmasking the Air We Breathe: An Exploratory Data Analysis on AQI in India
 
 > 📊 **Exploratory Data Analysis (EDA) | Amazon ML School Micro Project**  
 > 👩‍💻 By: *Jayati Shubangee, Girl Leading Tech Cohort 2025*
