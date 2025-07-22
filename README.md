@@ -9,7 +9,7 @@
 ## 📁 Dataset Overview
 
 📌 **Dataset Name**: *Air Quality Index (India)*  
-📍 **Source**: Provided in Amazon ML School  Cohort
+📍 **Source**: Provided in Amazon ML School Cohort
 📊 **Features**:  
 `City`, `Date`, `PM2.5`, `PM10`, `NO2`, `CO`, `SO2`, `AQI`, `AQI_Bucket`, etc.
 
@@ -56,10 +56,6 @@
 | 📉 Matplotlib  | Charting             |
 
 ---
-
-## 📸 Sample Visuals
-
-> *(Add these as screenshots if possible)*
 
 - 📍 **City-wise AQI Bar Plot**  
 - 🌈 **AQI Distribution Histogram**  
